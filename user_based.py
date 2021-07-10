@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 25 20:51:41 2020
-
-@author: josh
-"""
-
 import numpy as np
 import pandas as pd
 import nltk
